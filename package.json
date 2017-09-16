@@ -31,15 +31,18 @@
   ],
   "dependencies": {
     "@hollowverse/common": "https://github.com/hollowverse/common",
+    "aws-sdk": "^2.116.0",
     "github": "^10.0.0",
     "hubot": "^3.0.1",
     "hubot-discord": "^1.3.0",
+    "nodegit": "^0.20.2",
     "shelljs": "^0.7.8"
   },
   "devDependencies": {
     "@types/hubot": "^2.19.0",
     "@types/inherits": "^0.0.30",
     "@types/node": "^8.0.26",
+    "@types/nodegit": "^0.18.2",
     "@types/shelljs": "^0.7.4",
     "babel-eslint": "^7.2.3",
     "eslint": "^4.5.0",
